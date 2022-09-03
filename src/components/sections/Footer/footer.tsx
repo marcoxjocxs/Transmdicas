@@ -1,12 +1,9 @@
 import React from "react";
 import Container from "@mui/material/Container";
-import { Box, Grid, Link, Typography, Hidden } from "@mui/material";
-
+import { Box, Grid, Link, Typography } from "@mui/material";
 import "../../../assets/styles/Footer/FooterStyles.scss";
 import transmdicas from "../../../assets/img/Logos/transmdicasV2.png";
 import FacebookIcon from "@mui/icons-material/Facebook";
-import TwitterIcon from "@mui/icons-material/Twitter";
-import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import InstagramIcon from "@mui/icons-material/Instagram";
 export default function Footer() {
   return (
